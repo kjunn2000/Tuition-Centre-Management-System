@@ -1,0 +1,12 @@
+C:\Users\kjunn\source\repos\CSBASIC\CSBASIC\bin\Debug\CSBASIC.exe.config
+C:\Users\kjunn\source\repos\CSBASIC\CSBASIC\bin\Debug\CSBASIC.exe
+C:\Users\kjunn\source\repos\CSBASIC\CSBASIC\bin\Debug\CSBASIC.pdb
+C:\Users\kjunn\source\repos\CSBASIC\CSBASIC\obj\Debug\IOOP_ASS.csprojAssemblyReference.cache
+C:\Users\kjunn\source\repos\CSBASIC\CSBASIC\obj\Debug\CSBASIC.Form1.resources
+C:\Users\kjunn\source\repos\CSBASIC\CSBASIC\obj\Debug\CSBASIC.Form2.resources
+C:\Users\kjunn\source\repos\CSBASIC\CSBASIC\obj\Debug\CSBASIC.Form3.resources
+C:\Users\kjunn\source\repos\CSBASIC\CSBASIC\obj\Debug\CSBASIC.Form4.resources
+C:\Users\kjunn\source\repos\CSBASIC\CSBASIC\obj\Debug\CSBASIC.Properties.Resources.resources
+C:\Users\kjunn\source\repos\CSBASIC\CSBASIC\obj\Debug\IOOP_ASS.csproj.GenerateResource.cache
+C:\Users\kjunn\source\repos\CSBASIC\CSBASIC\obj\Debug\CSBASIC.exe
+C:\Users\kjunn\source\repos\CSBASIC\CSBASIC\obj\Debug\CSBASIC.pdb
